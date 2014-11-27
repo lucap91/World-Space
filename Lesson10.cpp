@@ -43,6 +43,7 @@ Model *pModeldestragiu = NULL;
 Model *pModelsinistrasu = NULL;
 Model *pModeldestrasu = NULL;
 
+//lucapatti
 
 const float piover180 = 0.0174532925f;
 float heading;
