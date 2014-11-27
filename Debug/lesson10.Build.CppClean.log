@@ -1,34 +1,51 @@
-.\Debug\lesson10.ilk
-.\Debug\lesson10.pdb
-C:\Users\Luca\Desktop\lesson10\.\Debug\lesson10.exe
-C:\Users\Luca\Desktop\lesson10\.\Debug\lesson10.exe.intermediate.manifest
-C:\Users\Luca\Desktop\lesson10\Debug\cl.command.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\CL.read.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\CL.write.1.tlog
-C:\USERS\LUCA\DESKTOP\LESSON10\DEBUG\LESSON10.EXE
-C:\USERS\LUCA\DESKTOP\LESSON10\DEBUG\LESSON10.EXE.EMBED.MANIFEST
-C:\USERS\LUCA\DESKTOP\LESSON10\DEBUG\LESSON10.EXE.EMBED.MANIFEST.RES
-C:\USERS\LUCA\DESKTOP\LESSON10\DEBUG\LESSON10.EXE.INTERMEDIATE.MANIFEST
-C:\USERS\LUCA\DESKTOP\LESSON10\DEBUG\LESSON10.ILK
-C:\USERS\LUCA\DESKTOP\LESSON10\DEBUG\LESSON10.OBJ
-C:\USERS\LUCA\DESKTOP\LESSON10\DEBUG\LESSON10.PDB
-C:\Users\Luca\Desktop\lesson10\Debug\lesson10_manifest.rc
-C:\Users\Luca\Desktop\lesson10\Debug\link.1412.read.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\link.1412.write.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\link.1412-cvtres.read.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\link.1412-cvtres.write.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\link.command.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\link.read.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\link.write.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\link-cvtres.read.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\link-cvtres.write.1.tlog
-C:\USERS\LUCA\DESKTOP\LESSON10\DEBUG\MILKSHAPEMODEL.OBJ
-C:\USERS\LUCA\DESKTOP\LESSON10\DEBUG\MODEL.OBJ
-C:\Users\Luca\Desktop\lesson10\Debug\mt.command.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\mt.read.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\mt.write.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\rc.command.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\rc.read.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\rc.write.1.tlog
-C:\Users\Luca\Desktop\lesson10\Debug\vc100.idb
-C:\USERS\LUCA\DESKTOP\LESSON10\DEBUG\VC100.PDB
+c:\users\luca\desktop\lesson10\debug\lesson10.obj
+c:\users\luca\desktop\lesson10\debug\milkshapemodel.obj
+c:\users\luca\desktop\lesson10\debug\model.obj
+c:\users\luca\desktop\lesson10\debug\vc100.pdb
+c:\users\luca\desktop\lesson10\debug\lesson10.ilk
+c:\users\luca\desktop\lesson10\debug\lesson10.exe
+c:\users\luca\desktop\lesson10\debug\lesson10.exe.intermediate.manifest
+c:\users\luca\desktop\lesson10\debug\lesson10.pdb
+c:\users\luca\desktop\lesson10\debug\lesson10.exe.embed.manifest
+c:\users\luca\desktop\lesson10\debug\lesson10.exe.embed.manifest.res
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\vc120.pdb
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\vc120.idb
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.obj
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\milkshapemodel.obj
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\model.obj
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\cl.command.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\cl.read.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\cl.write.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\link-cvtres.read.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\link-cvtres.write.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\link.3396-cvtres.read.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\link.3396-cvtres.write.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\link.3396.read.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\link.3396.write.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\link.command.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\link.read.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\link.write.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\mt.command.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\mt.read.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\mt.write.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\rc.command.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\rc.read.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\rc.write.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.exe.embed.manifest
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.exe.intermediate.manifest
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.exe.embed.manifest.res
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\vc100.idb
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.pdb
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\vc100.pdb
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10_manifest.rc
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\.\debug\lesson10.exe.intermediate.manifest
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.tlog\cl.command.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.tlog\cl.read.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.tlog\cl.write.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.tlog\link-cvtres.read.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.tlog\link-cvtres.write.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.tlog\link-rc.read.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.tlog\link-rc.write.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.tlog\link.command.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.tlog\link.read.1.tlog
+c:\users\fabio\desktop\computer graphics\progetto\git\world-space\debug\lesson10.tlog\link.write.1.tlog

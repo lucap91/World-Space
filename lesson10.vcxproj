@@ -125,6 +125,7 @@
       <SubSystem>Windows</SubSystem>
       <OutputFile>.\Debug\lesson10.exe</OutputFile>
       <AdditionalDependencies>opengl32.lib;glu32.lib;glaux.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
